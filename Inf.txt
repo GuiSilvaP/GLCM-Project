@@ -1,0 +1,25 @@
+*******************************************************
+
+	***LABORATÓRIO DE PROGRAMAÇÃO***
+	**TRABALHO FINAL/DESAFIO PPGER**
+EQUIPE:
+
+-> Jose Igor de Carvalho
+-> Guilherme Pessoa Silva
+
+PROFESSOR:
+
+-> Daniel Ferreira
+
+	***RESULTADOS OBTIDOS***
+
+AVERAGE TIME:	0.002602 ms
+
+ATRIBUTES:
+
+Contrast:	0.7109
+Correlation:	0.9527
+Energy:		0.0555
+Homogeneity:	0.7891
+
+*******************************************************
